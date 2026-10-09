@@ -169,5 +169,6 @@ time.sleep(10)
 driver.quit()
 ```
 ## Output:
-<img width="1920" height="1080" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/c77959ea-5f06-4780-99b7-19fe7aa3e306" />
+<img width="1487" height="1025" alt="Screenshot 2026-10-09 135325" src="https://github.com/user-attachments/assets/95dd623e-d32a-437a-9937-f8c8ef2fe15c" />
+
 
